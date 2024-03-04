@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Oumy</h1>
-<h3 align="center">Passionate about artificial intelligence and cybersecurity</h3>
+<h3 align="center">Passionate about the digital world, artificial intelligence and cybersecurity</h3>
 
 
 
