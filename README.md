@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Oumy</h1>
 <h3 align="center">Passionate about artificial intelligence and cybersecurity</h3>
 
-- 🌱 I’m currently learning **100 Days of Code: The Complete Python Pro Bootcamp for 2023**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
